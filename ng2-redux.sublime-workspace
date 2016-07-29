@@ -1,0 +1,1026 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"const",
+				"constructor	keyword"
+			],
+			[
+				"video",
+				"videoEl	property"
+			],
+			[
+				"set",
+				"setInterval	method"
+			],
+			[
+				"Power",
+				"Power0"
+			],
+			[
+				"stroke",
+				"strokeDasharray"
+			],
+			[
+				"Timeline",
+				"TimelineMax"
+			],
+			[
+				"Query",
+				"QueryList	alias"
+			],
+			[
+				"te",
+				"template	property"
+			],
+			[
+				"Ele",
+				"ElementRef	alias"
+			],
+			[
+				"Co",
+				"Component	alias"
+			],
+			[
+				"Event",
+				"EventEmitter	alias"
+			],
+			[
+				"cons",
+				"constructor	keyword"
+			],
+			[
+				"pos",
+				"pos-r	position: relative;"
+			],
+			[
+				"$state",
+				"$stateParams"
+			],
+			[
+				"stack",
+				"Stack"
+			],
+			[
+				"md-tool",
+				"md-toolbar	Angular Material - Toolbars are usually used above a content area to display the title of the current page, and show relevant action buttons for that page."
+			],
+			[
+				"for",
+				"angular.forEach"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"ng-bind",
+				"ng-bind-html	AngularJS"
+			],
+			[
+				"lig",
+				"lighten	Sass-function"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"pass",
+				"passport"
+			],
+			[
+				"max-",
+				"max-width: "
+			],
+			[
+				"angular",
+				"angular.copy"
+			],
+			[
+				"trans",
+				"transition: "
+			],
+			[
+				"bord",
+				"border: "
+			],
+			[
+				"text",
+				"text-shadow: "
+			],
+			[
+				"border",
+				"border-color: "
+			],
+			[
+				"bb",
+				"border-bottom: "
+			],
+			[
+				"remove",
+				"angular: removeClass"
+			],
+			[
+				"lis",
+				"list	list-style-type"
+			],
+			[
+				"wid",
+				"width: "
+			],
+			[
+				"remo",
+				"angular: removeClass"
+			],
+			[
+				"ion-pane",
+				"ionic-pane	ionic-pane"
+			],
+			[
+				"ion-list",
+				"ionic-list	ionic-list"
+			],
+			[
+				"ion-con",
+				"ionic-content	ionic-content"
+			],
+			[
+				"max",
+				"max-width"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/main.ts",
+			"settings":
+			{
+				"buffer_size": 418,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/people.ts",
+			"settings":
+			{
+				"buffer_size": 654,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/app.component.ts",
+			"settings":
+			{
+				"buffer_size": 1316,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/personList.component.ts",
+			"settings":
+			{
+				"buffer_size": 814,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "<input type=\"checkbox\" id=\"attending\"> <label for=\"attending\">Attending</label>",
+			"settings":
+			{
+				"buffer_size": 79,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 1093,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/personInput.component.ts",
+			"settings":
+			{
+				"buffer_size": 446,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 273.0,
+		"selected_items":
+		[
+			[
+				"Java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"sass",
+				"SassBeautify"
+			],
+			[
+				"emmet",
+				"Emmet: Balance (inward)"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 480.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2deb499853c4371624f5a07e27c334aa' + 'bf8c4e67d14fb0525ba4f89698a6d7e1'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Volumes/Data Center/Projects/Angular 2/Redux with ngRx",
+		"/Volumes/Data Center/Projects/Angular 2/Redux with ngRx/app"
+	],
+	"file_history":
+	[
+		"/Volumes/Data Center/Projects/Angular 2/Redux with ngRx/app.css",
+		"/Volumes/Data Center/Projects/Angular 2/Redux with ngRx/systemjs.config.js",
+		"/Volumes/Data Center/Projects/Angular 2/Redux with ngRx/index.html",
+		"/Volumes/Data Center/Projects/Angular 2/Redux with ngRx/ng2-redux.sublime-workspace",
+		"/Volumes/Data Center/Projects/Angular 2/Redux with ngRx/ng2-redux.sublime-project",
+		"/Volumes/Data Center/Projects/Angular 2/Redux with ngRx/app/.DS_Store",
+		"/Volumes/Data Center/Projects/Angular 2/Redux with ngRx/ngrx.sublime-project",
+		"/Volumes/Data Center/Projects/Angular 2/youtube-search/app/services/YouTubeService.service.ts",
+		"/Volumes/Data Center/Projects/Angular 2/Video Player/node_modules/@angular/common/src/pipes/async_pipe.d.ts",
+		"/Volumes/Data Center/Projects/Angular 2/Video Player/app.css",
+		"/Volumes/Data Center/Projects/Angular 2/Video Player/app/videoProgress.component.ts",
+		"/Volumes/Data Center/Projects/Angular 2/Video Player/app/video.component.ts",
+		"/Volumes/Data Center/Projects/Angular 2/Video Player/app/timeDisplay.pipe.ts",
+		"/Volumes/Data Center/Projects/Angular 2/Video Player/app/main.ts",
+		"/Volumes/Data Center/Projects/Angular 2/Video Player/Exercise Files/CH03/03_02/Angular-Project/app/toolbar.component.ts",
+		"/Volumes/Data Center/Projects/Angular 2/Video Player/app/videoToolbar.component.ts",
+		"/Volumes/Data Center/Projects/Angular 2/Video Player/index.html",
+		"/Volumes/Data Center/Projects/Angular 2/Video Player/Exercise Files/CH03/03_02/Angular-Project/css/app.css",
+		"/Volumes/Data Center/Projects/Angular 2/Video Player/app/videoToolbar.components.ts",
+		"/Volumes/Data Center/Projects/Angular 2/Video Player/Exercise Files/CH03/03_02/Angular-Project/app/app.component.ts",
+		"/Volumes/Data Center/Projects/Angular 2/Video Player/ng-2-videoPlayer.sublime-project",
+		"/Users/iaakash/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/iaakash/Dropbox/Projects/GSAP Projects/SVG Meter/01-HTML-CSS 2/end/js/main.js",
+		"/Users/iaakash/Dropbox/Projects/GSAP Projects/SVG Meter/js/main.js",
+		"/Volumes/Data Center/Projects/Angular 2/Advanced Components/custom tabs/app/.DS_Store",
+		"/Volumes/Data Center/Projects/Angular 2/Advanced Components/custom popup/popup.sublime-project",
+		"/Volumes/Data Center/Projects/Angular 2/Advanced Components/custom popup/ng-2-popup.sublime-project",
+		"/Volumes/Data Center/Projects/Angular 2/Advanced Components/custom popup/ng-2-youtubeSearch.sublime-project",
+		"/Volumes/Data Center/Projects/Angular 2/youtube-search/ng-2-youtubeSearch.sublime-project",
+		"/Users/iaakash/Dropbox/angular 2/Reddit clone/package.json",
+		"/Volumes/Data Center/Projects/Angular 2/testing/package.json",
+		"/Users/iaakash/Dropbox/ng2 Recipes/fem-ng2-ngrx-app/client/src/common/stores/selectedWidget.store.ts",
+		"/Users/iaakash/Dropbox/ng2 Recipes/fem-ng2-ngrx-app/client/src/common/stores/selectedItem.store.ts",
+		"/Users/iaakash/Dropbox/ng2 Recipes/fem-ng2-ngrx-app/client/src/common/stores/items.store.ts",
+		"/Users/iaakash/Dropbox/ng2 Recipes/fem-ng2-ngrx-app/client/boot.ts",
+		"/Users/iaakash/Dropbox/ng2 Recipes/ngbook2 code/how_angular_works/inventory_app/app.ts",
+		"/Users/iaakash/Dropbox/ng2 Boilerplate/index.html",
+		"/Volumes/JetBrains [Crack]/README!!!!.txt",
+		"/Users/iaakash/Dropbox/Angular 2/angular2-BookmarkManager/app/articlesWrap/articles.component.ts",
+		"/Users/iaakash/Dropbox/Angular 2/angular2-BookmarkManager/app/app.tmpl.html",
+		"/Users/iaakash/Dropbox/Angular1.5 and ES6/Route-To-ng2/Gulpfile.js",
+		"/Users/iaakash/Dropbox/Angular1.5 and ES6/Route-To-ng2/node_modules/node-libs-browser/package.json",
+		"/Users/iaakash/Dropbox/Angular1.5 and ES6/Route-To-ng2/webpack.config.js",
+		"/Users/iaakash/Dropbox/Angular1.5 and ES6/Route-To-ng2/package.json",
+		"/Users/iaakash/Dropbox/Angular1.5 and ES6/Route-To-ng2/node_modules/raw-loader/index.js",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/dashboard.html",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/jobs/jobs.html",
+		"/Users/iaakash/Desktop/xlott-2.0/src/index.html",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/profileViewViaSkillSearch/profileView.html",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/createJob/components/ctcMax/ctcMax.html",
+		"/Users/iaakash/Desktop/xlott-2.0/src/styles/app.scss",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/ProfilesShortlisted/ProfilesShortlisted.html",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/ProfilesForCreatedJob/profiles.html",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/ProfileView/profile.html",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/createJob/components/selectSkills/selectSkills.js",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/createJob/createJobController.js",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/createJob/components/growthSkill/growthSkill.js",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/widgets/jobCard/jobcard.html",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/ProfileView/ProfileViewController.js",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/widgets/widgets.module.js",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/createJob/components/selectSkills/selectSkills.html",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/searchedProfiles/searchedProfilesController.js",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/dashboard.controller.js",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/ProfilesForCreatedJob/profilesForCreatedJob.js",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/ProfilesForCreatedJob/ProfilesForCreatedJob.module.js",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/home/dashboard.module.js",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/core/router.module.js",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/home/homeController.js",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/core/constants.module.js",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dataServices/jobsService.js",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dataServices/authService.js",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/jobs/CreatedJobsController.js",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/editJob/editJobController.js",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/editJob/components/growthSkill/growthSkill.js",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/editJob/components/equityMin/equityMin.js",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/editJob/components/equityMax/equityMax.js",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/editJob/components/ctcMax/ctcMax.js",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/editJob/components/ctcMin/ctcMin.js",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/createJob/createJob.html",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/createJob/components/ctcMin/ctcMin.js",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/createJob/components/ctcMin/ctcMin.html",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/createJob/components/locationSelection/locationSelection.html",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/editJob/components/locationSelection/editlocationSelection.js",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/createJob/components/locationSelection/locationSelection.js",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/createJob/components/locationSelection/locationSelection.module.js",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/app.module.js",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/editJob/editJob.html",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/editJob/components/locationSelection/locationSelection.module.js",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/editJob/components/locationSelection/locationSelection.js",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/editJob/components/growthSkill/growthSkill.module.js",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/editJob/components/equityMin/equityMin.module.js",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/editJob/components/equityMax/equityMax.module.js",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/editJob/components/ctcMin/ctcMin.module.js",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/createJob/components/ctcMax/ctcMax.module.js",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/editJob/components/selectSkills/selectSkills.js",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/editJob/components/selectSkills/selectSkills.module.js",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/editJob/components/ctcMax/ctcMax.module.js",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/createJob/components/growthSkill/growthSkill.module.js",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/core/core.module.js",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/core/checkbox-helper.module.js",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/ProfilesShortlisted/ProfilesShortlistedController.js",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/previewJob/previewJobController.js",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/editJob/components/equityMax/equityMax.html",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/editJob/components/equityMin/equityMin.html",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/editJob/components/growthSkill/growthSkill.html",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/editJob/components/ctcMin/ctcMin.html",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/editJob/components/ctcMax/ctcMax.html",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/editJob/components/locationSelection/locationSelection.html",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/editJob/components/selectSkills/selectSkills.html",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/ProfilesShortlisted/ProfilesShortlisted.module.js",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/editJob/editJob.module.js",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/createJob/createJob.module.js",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/ProfileView/ProfileView.module.js",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dataServices/dataService.module.js",
+		"/Users/iaakash/Desktop/svg-range-slider/js/index.js",
+		"/Users/iaakash/Desktop/xlott-2.0/src/styles/placeholders/_common.scss",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/createJob/components/growthSkill/growthSkill.html",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/createJob/components/equityMax/equityMax.js",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/createJob/components/equityMin/equityMin.js",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/createJob/components/equityMin/equityMin.html",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/createJob/components/ctcMax/ctcMax.js",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/jobs/CreatedJobs.module.js",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dummyRemote/created_jobs.json",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dummyRemote/profile_view.json",
+		"/Users/iaakash/Desktop/xlott-2.0/src/styles/base/_variables.scss",
+		"/Users/iaakash/Desktop/xlott-2.0/src/styles/base/_normalise.scss",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/previewJob/previewJob.html",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/previewJob/previewJob.module.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 115.0,
+		"where_history":
+		[
+			"/Users/iaakash/Desktop/xlott-2.0/src/app",
+			"/Users/iaakash/Library/Mobile Documents/com~apple~CloudDocs/Angular Code Organisation/modular"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"PrinterLIghtTop",
+			"Paper",
+			"LiquidInside6",
+			"LiquidInside5Mask",
+			"LiquidInside4",
+			"Liquid8",
+			"$LiquidInsideMask01",
+			".shortlist_block i",
+			"profile-card .shortlist_block i",
+			".profileWraper",
+			"MAINnAV",
+			".profileRoll",
+			"console",
+			"job.showJobPanel",
+			"http://104.197.157.160/profile ",
+			"fetchProfilesForSearchedSkills",
+			"transformChip",
+			"growthSkillController",
+			"eqMinController",
+			"eqMaxController",
+			"ctcMaxController",
+			"selectLocation",
+			"locationSelectionComponent",
+			"selectLocation",
+			"pc",
+			"gs",
+			"self",
+			"equityMin",
+			"Min",
+			"self",
+			"eqmin",
+			"self",
+			"cmax",
+			"createJob",
+			"eq",
+			"ctc",
+			"growthSkill",
+			"eqMax",
+			"eqMin",
+			"ctcMax",
+			"ctcMin",
+			"self",
+			"cmin",
+			"as",
+			"bindToController: true",
+			"cjc",
+			"self",
+			"ss",
+			"ls",
+			"self",
+			"cjc",
+			"http://192.168.1.30",
+			"updateSlider",
+			"ctrl",
+			"dc",
+			".viewcard",
+			";\n",
+			"min",
+			"eqmin",
+			"Ctc",
+			"cmin",
+			"ss",
+			"app",
+			"createJob",
+			"profileDetailshead",
+			"pc",
+			"checkbox",
+			"cjc.job.areaToContribute",
+			"summary_section",
+			".MainNav",
+			"span.job_location",
+			".jobRoll",
+			"jobRoll",
+			"CSS",
+			"Git",
+			"Stack",
+			"metaPane",
+			"$scope",
+			"false",
+			"showCities",
+			"fetchShippingValue",
+			"fetchShipping",
+			"searchTextChange",
+			"fetchShippingValue",
+			"blur",
+			"vm",
+			"home",
+			"vm",
+			"cart",
+			"Buy Now",
+			"aside",
+			"authentication",
+			"authentication.client.controller.js",
+			"ps",
+			"1.jpg",
+			"ps",
+			"task",
+			"@",
+			"less",
+			"[\n",
+			"less",
+			"ac",
+			"vm",
+			"$name",
+			"note",
+			"application",
+			"var cwd",
+			"watch",
+			"jshint",
+			"url('fonts",
+			"overflow",
+			".cf",
+			"http://odesk.grastorf/",
+			";\n",
+			"selectedSong",
+			"$scope",
+			"$",
+			"<h2>",
+			" ▸ ",
+			"PostModel",
+			"Todo",
+			"cpc",
+			"$scope",
+			"VM",
+			"UCC",
+			"vm",
+			"</p>",
+			"<p>"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/main.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 418,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								413,
+								413
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"side_bar_folders_auto_load_folder": 1,
+							"synced": false,
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": false,
+								"indentSize": 4,
+								"tabSize": 4
+							},
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/people.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 654,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								643,
+								643
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"open_with_edit": true,
+							"remote_loading": false,
+							"side_bar_folders_auto_load_folder": 1,
+							"synced": false,
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": false,
+								"indentSize": 4,
+								"tabSize": 4
+							},
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/app.component.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1316,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								868,
+								868
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"open_with_edit": true,
+							"remote_loading": false,
+							"side_bar_folders_auto_load_folder": 1,
+							"synced": false,
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": false,
+								"indentSize": 4,
+								"tabSize": 4
+							},
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 342.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/personList.component.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 814,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								159,
+								169
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"open_with_edit": true,
+							"remote_loading": false,
+							"side_bar_folders_auto_load_folder": 1,
+							"synced": false,
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": false,
+								"indentSize": 4,
+								"tabSize": 4
+							},
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 79,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								79
+							]
+						],
+						"settings":
+						{
+							"default_dir": "/Volumes/Data Center/Projects/Angular 2/Redux with ngRx",
+							"incomplete_sync": null,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1093,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								874,
+								874
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"side_bar_folders_auto_load_folder": 1,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "app/personInput.component.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 446,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								402,
+								402
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"open_with_edit": true,
+							"remote_loading": false,
+							"side_bar_folders_auto_load_folder": 1,
+							"synced": false,
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": false,
+								"indentSize": 4,
+								"tabSize": 4
+							},
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 118.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"project": "ng2-redux.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"app",
+				"app.css"
+			],
+			[
+				"router",
+				"core/router.module.js"
+			],
+			[
+				"profilesforcreatedjob",
+				"app/dashboard/ProfilesForCreatedJob/profilesForCreatedJob.js"
+			],
+			[
+				"a",
+				"styles/app.scss"
+			],
+			[
+				"create",
+				"app/dashboard/createJob/createJobController.js"
+			],
+			[
+				"place",
+				"styles/placeholders/_common.scss"
+			],
+			[
+				"nor",
+				"styles/base/_normalise.scss"
+			],
+			[
+				"var",
+				"styles/base/_variables.scss"
+			],
+			[
+				"apps",
+				"styles/app.scss"
+			],
+			[
+				"profileviewcontroller",
+				"app/dashboard/ProfileView/ProfileViewController.js"
+			],
+			[
+				"profileviewviaskillsearchcontroller",
+				"app/dashboard/profileViewViaSkillSearch/profileViewViaSkillSearchController.js"
+			],
+			[
+				"searchedprofilescontroller",
+				"app/dashboard/searchedProfiles/searchedProfilesController.js"
+			],
+			[
+				"mixins",
+				"styles/mixins/_generic.scss"
+			],
+			[
+				"created",
+				"app/dashboard/jobs/CreatedJobsController.js"
+			],
+			[
+				"company",
+				"app/companyInfo/companyInfo.html"
+			],
+			[
+				"ro",
+				"app.routes.js"
+			],
+			[
+				"index",
+				"index.html"
+			],
+			[
+				"routes",
+				"app.routes.js"
+			],
+			[
+				"server",
+				"server.js"
+			],
+			[
+				"express",
+				"config/express.js"
+			],
+			[
+				"deve",
+				"config/env/development.js"
+			],
+			[
+				"maps",
+				"helpers/_maps.scss"
+			],
+			[
+				"generic",
+				"layout/_generic.scss"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 350.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

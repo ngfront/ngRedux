@@ -1,0 +1,7 @@
+{
+    "folders": [{
+        "path": ".",
+        "folder_exclude_patterns": [".DS_Store",  ".svn", "._d", ".metadata", ".settings", "node_modules"],
+        "file_exclude_patterns": ["*.js",  "*.component.js","*.component.js.map","*.js.map","*.pyc", "*.pyo", ".project"]
+    }]
+}
